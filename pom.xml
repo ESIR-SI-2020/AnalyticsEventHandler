@@ -28,7 +28,7 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <elasticsearch.version>6.8.13</elasticsearch.version>
+        <elasticsearch.version>6.8.15</elasticsearch.version>
         <spring-elasticsearch.version>3.0.8.RELEASE</spring-elasticsearch.version>
     </properties>
 
